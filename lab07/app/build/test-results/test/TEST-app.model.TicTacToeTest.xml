@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="app.model.TicTacToeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-04-10T19:42:11" hostname="Spurgeons-MacBook-Air.local" time="0.071">
-  <properties/>
-  <testcase name="testXWin()" classname="app.model.TicTacToeTest" time="0.071"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
