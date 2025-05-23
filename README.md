@@ -1,7 +1,7 @@
 # TicTacToe
 
 <p align="center">
-<img src=""
+<img src="tictactoe.png"
 width="400">
 </p>
 
