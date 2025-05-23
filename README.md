@@ -28,7 +28,7 @@ The controls of this game are quite simple. You can navigate the current block b
 ### ✨ TicTacToe Game Screen
 
 <p align="center">
-<img src="titlescreen.png"
+<img src="tictactoescreen.png"
 width="400">
 </p>
 
